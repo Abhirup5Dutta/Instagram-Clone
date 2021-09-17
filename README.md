@@ -1,3 +1,9 @@
+# Application build
+
+[Deployed Application Link](https://instagram-clone-d30be.web.app/)
+
+![Project image](https://i.imgur.com/hQmUQUd.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
